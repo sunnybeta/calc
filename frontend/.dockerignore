@@ -1,0 +1,9 @@
+# Docker
+Dockerfile
+.dockerignore
+
+# Node
+node_modules/
+
+# Build
+dist/
