@@ -1,0 +1,10 @@
+# Docker
+Dockerfile
+.dockerignore
+
+# Maven
+# .mvn
+# mvnw
+
+# Build 
+target/
