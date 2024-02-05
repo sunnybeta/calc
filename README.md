@@ -10,7 +10,7 @@ cd calc
 docker compose up
 ```
 
-Visit [localhost:4173/](localhost:4173)
+Visit [localhost:4173/](https://localhost:4173)
 
 ## Stack
 
